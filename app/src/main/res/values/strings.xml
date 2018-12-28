@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiActivity</string>
+    <string name="button">Show New Activity</string>
+    <string name="secondText">This is 2nd Activity</string>
+    <string name="gobacktofirst">Show Prev Activity</string>
+    <string name="goto2nd">This is first Activity</string>
+</resources>
